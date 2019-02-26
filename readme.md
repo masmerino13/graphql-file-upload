@@ -1,0 +1,1 @@
+File upload GraphQL + Apollo + Next.JS
